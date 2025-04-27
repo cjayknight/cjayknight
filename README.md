@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-  - [Active Directory Home Lab]((https://github.com/cjayknight/ActiveDirectoryLab/tree/main))
+  - [Active Directory Home Lab](https://github.com/cjayknight/ActiveDirectoryLab/tree/main)
 
 <h2>Certifications</h2>
 
