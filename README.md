@@ -7,7 +7,7 @@
 <h2>Certifications</h2>
 
 - [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [CompTIA A+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [AWS Cloud Practitioner](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Azure Fundamentals](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
