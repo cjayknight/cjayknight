@@ -17,7 +17,7 @@
 
 [<img align="left" alt="CJayKnight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://https://www.linkedin.com/in/cjayknight
+[linkedin]: https://www.linkedin.com/in/cjayknight
 
 <!--
 **cjayknight/cjayknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
