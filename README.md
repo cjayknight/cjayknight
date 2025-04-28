@@ -8,7 +8,7 @@
 
 - [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA A+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [AWS Cloud Practitioner](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [AWS Cloud Practitioner](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a5a33b29-99c3-43f9-b587-edd31935ee47" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
 - [Azure Fundamentals](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 
